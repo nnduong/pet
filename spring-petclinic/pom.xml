@@ -9,7 +9,7 @@
     <name>petclinic</name>
     <packaging>war</packaging>
 
-  <!-- Change something in Pom files -->
+  <!-- Change something in Pom -->
 
     <properties>
 
